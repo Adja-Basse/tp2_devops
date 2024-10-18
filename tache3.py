@@ -1,0 +1,1 @@
+print("Bonjour, bienvenue dans notre groupe de travail!")
